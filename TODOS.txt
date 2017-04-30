@@ -1,0 +1,12 @@
+(done) Create an animated and controllable sprite (a cat or an octopus) // Done
+(done) Add flipping feature for better sprite control // Key pressed
+                                              // change fliptype
+                                              render
+                                              move
+                                              change fliptype back to none
+                                              render
+Add pickups
+
+Add scoring system
+Add enemies
+Add speed parameter option for Sprite class moving functions
